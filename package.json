@@ -1,0 +1,19 @@
+{
+  "name": "jetspreeapi",
+  "version": "1.0.0",
+  "description": "practicle evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjularanathunga/JetspreeApi.git"
+  },
+  "author": "Manjula Ranathunga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjularanathunga/JetspreeApi/issues"
+  },
+  "homepage": "https://github.com/manjularanathunga/JetspreeApi#readme"
+}
